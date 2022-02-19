@@ -57,10 +57,10 @@ body {
 	font-size: medium;
 }
 
-.menulink{
-text-decoration: none;
-font-size: large;
-color: cornflowerblue;
+.menulink {
+	text-decoration: none;
+	font-size: large;
+	color: cornflowerblue;
 }
 
 .dropdown:hover .dropdown-content {
@@ -89,7 +89,7 @@ color: cornflowerblue;
 	text-align: center;
 }
 
-p{
-	text-align: center; 
+p {
+	text-align: center;
 	color: gray;
 }
